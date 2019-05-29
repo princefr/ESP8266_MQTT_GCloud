@@ -6,8 +6,8 @@ please open arduino_secret.h file and change the settings below with your system
 
 
 // WIFI
-const char* ssid = "YOUR WIFI ID"; // Livebox-C4CF
-const char* password = "WIFI PASSWORD"; // ch91ou94Pr
+const char* ssid = "YOUR WIFI ID";
+const char* password = "WIFI PASSWORD";
 
 // Cloud iot details.
 const char* project_id = "google cloud project id";
